@@ -18,7 +18,7 @@
   clone this repo
 
   ```
-  git clone https://github.com/Sukhendra523/netflix-clone.git
+  git clone https://github.com/DevanshGupta099/NetflixClone-ReactJs.git
   ```
 
 - Step-2:
