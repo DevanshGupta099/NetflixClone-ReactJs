@@ -26,7 +26,6 @@
   Install all dependencies
 
   ```
-  cd google-clone
   npm install
   ```
 
